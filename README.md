@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 🌱 I’m currently learning Typescript
-- 📫 How to reach me: pub@hz.do
+- 📫 How to reach me: <pub@hz.do>
